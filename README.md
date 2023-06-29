@@ -64,6 +64,3 @@ We welcome contributions to Nexus UI! Please see our [CONTRIBUTING.md](#) for mo
 ## License
 
 Nexus UI is [MIT licensed](#).
-```
-
-Be sure to replace the placeholder `#` links with the actual links to your documentation, contributing guide, and license.
